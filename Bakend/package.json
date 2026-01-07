@@ -1,0 +1,14 @@
+{
+  "name": "local_bazar_bakend",
+  "version": "1.0.0",
+  "description": "Local Bazar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
