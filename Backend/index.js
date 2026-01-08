@@ -5,7 +5,7 @@ const PORT = 5000;
 
 // Hello World API
 app.get("/", (req, res) => {
-  res.send("Hello World 🌍");
+  res.send("welcome to our first project 🌍");
 });
 
 // Start server
