@@ -1,18 +1,18 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-import NavBar from './components/Navbar'
+import './components/ProductCard.css';
+import Home from './pages/Home';
+
 
 function App() {
   
 
   return (
-    <>
-    <NavBar/>
-    <h2>Welcome to Local Bazar!</h2>
-    </>
+    <div>
+     
+     <Home/>
+  
+    </div>
   )
 }
 
